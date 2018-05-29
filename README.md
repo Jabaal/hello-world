@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Just refreshing my git-knowledge to finally start programming on a better level.
